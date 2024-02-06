@@ -1,0 +1,138 @@
+id	nev	ertekid	ev	katid
+1839	pannon gyík	1	1974	6
+1886	kis héja	2	1954	3
+1962	csíkosfejű nádiposzáta	3	1901	3
+1882	barátkeselyű	2	1954	3
+1868	kis lilik	4	1982	3
+1891	szirti sas	3	1954	3
+1889	fekete sas	3	1954	3
+1890	parlagi sas	4	1954	3
+1888	békászó sas	4	1954	3
+1859	vörös gém	2	1954	3
+1856	üstökösgém	2	1912	3
+1809	keleti lápibagoly	1		8
+1944	réti fülesbagoly	2	1901	3
+1810	magyar őszi-fésűsbagoly	1		8
+1942	kuvik	1	1901	3
+1871	cigányréce	3	1971	3
+1971	piszedenevér	1	1901	7
+1826	Petényi-márna	1	1974	1
+1904	császármadár	3	1954	3
+1853	bölömbika	1	1954	3
+1869	vörösnyakú lúd	3	1971	3
+1940	uhu	2	1954	3
+1917	ugartyúk	2	1901	3
+1887	pusztai ölyv	1	1954	3
+1955	sziki pacsirta	2	1971	3
+1979	farkas	2	1993	7
+1779	beregi futrinka	1		8
+1780	magyar futrinka	1		8
+1781	zempléni futrinka	1		8
+1792	sztyeplepke	1		8
+1789	mecseki őszitegzes	1		8
+1922	széki lile	3	1901	3
+1923	lilebíbic	2	1954	3
+1933	fattyúszerkő	1	1901	3
+1935	fehérszárnyú szerkő	2	1901	3
+1934	kormos szerkő	2	1901	3
+1801	magyar ősziaraszoló	1		8
+1862	fehér gólya	1	1906	3
+1861	fekete gólya	3	1906	3
+1957	vízirigó	2	1904	3
+1883	kígyászölyv	3	1954	3
+1884	fakó rétihéja	1	1954	3
+1885	hamvas rétihéja	2	1954	3
+1799	ezüstsávos szénalepke	1		8
+1841	haragos sikló	3	1974	6
+1949	szalakóta	3	1901	3
+1772	ritka hegyiszitakötő	1		8
+1908	haris	3	1971	3
+1811	díszes csuklyásbagoly	1		8
+1812	vértesi csuklyásbagoly	1		8
+1952	fehérhátú fakopáncs	1	1901	3
+1813	magyar tavaszi-fésűsbagoly	1		8
+1783	pusztai gyalogcincér	1		8
+1858	nagy kócsag	1	1912	3
+1857	kis kócsag	2	1912	3
+1964	kerti sármány	2	1901	3
+1802	bükki hegyiaraszoló	1		8
+1803	Anker-araszoló	1		8
+1821	tiszai ingola	2	1974	2
+1822	dunai ingola	1	1974	2
+1898	Feldegg-sólyom	1	1996	3
+1899	kerecsensólyom	4	1954	3
+1897	Eleonóra-sólyom	1	1971	3
+1895	fehérkarmú vércse	3	1906	3
+1901	vándorsólyom	3	1954	3
+1900	északi sólyom	1	1996	3
+1896	kék vércse	3	1906	3
+1925	nagy sárszalonka	2	1971	3
+1920	feketeszárnyú székicsér	3	1954	3
+1919	székicsér	3	1901	3
+1794	budai szakállasmoly	1		8
+1814	nagy szikibagoly	1		8
+1880	rétisas	4	1954	3
+1893	héjasas	1	1954	3
+1892	törpesas	3	1954	3
+1914	gólyatöcs	2	1954	3
+1831	dunai galóca	1	1974	1
+1768	dobozi pikkelyescsiga	1		5
+1775	magyar tarsza	1		8
+1776	Stys-tarsza	1		8
+1854	törpegém	1	1954	3
+1804	füstös ősziaraszoló	1		8
+1926	nagy goda	1	1954	3
+1959	nagy fülemüle	1	1901	3
+1981	vidra	2	1974	7
+1983	hiúz	3	1988	7
+1870	márványos réce	2	1971	3
+1947	gyurgyalag	1	1954	3
+1988	északi pocok	2	1974	7
+1878	barna kánya	2	1971	3
+1879	vörös kánya	3	1954	3
+1972	hosszúszárnyú denevér	1	1901	7
+1960	kövirigó	3	1901	3
+1973	nagyfülű denevér	1	1901	7
+1974	tavi denevér	1	1901	7
+1975	csonkafülű denevér	1	1901	7
+1881	dögkeselyű	1	1954	3
+1928	nagy póling	1	1954	3
+1927	vékonycsőrű póling	4	1954	3
+1976	óriás-koraidenevér	1	1901	7
+1941	hóbagoly	1	1954	3
+1855	bakcsó	1	1954	3
+1786	remetebogár	1		8
+1911	túzok	4	1971	3
+1815	nagyfoltú bagoly	1		8
+1872	kékcsőrű réce	3	1954	3
+1875	halászsas	2	1954	3
+1774	álolaszsáska	1		8
+1850	borzas gödény	2	1954	3
+1849	rózsás gödény	2	1954	3
+1877	darázsölyv	1	1954	3
+1847	kis kárókatona	3	1954	3
+1805	csüngőaraszoló	1		8
+1784	atracélcincér	1		8
+1865	kanalasgém	3	1912	3
+1788	drávai tegzes	1		8
+1796	fóti boglárka	1		8
+1864	batla	2	1912	3
+1816	villányi télibagoly	1		8
+1797	csíkos boglárka	1		8
+1907	törpevízicsibe	2	1954	3
+1915	gulipán	2	1954	3
+1968	kereknyergű patkósdenevér	1	1901	7
+1969	nagy patkósdenevér	1	1901	7
+1807	Metelka-medvelepke	1		8
+1990	csíkos szöcskeegér	2	1974	7
+1986	nyugati földikutya	3	1974	7
+1932	kis csér	2	1954	3
+1943	urali bagoly	1	1954	3
+1910	reznek	2	1954	3
+1930	tavi cankó	2	1954	3
+1929	piroslábú cankó	1	1954	3
+1938	gyöngybagoly	1	1901	3
+1829	lápi póc	1	1974	1
+1843	parlagi vipera	4	1974	6
+1835	német bucó	1	1974	1
+1834	magyar bucó	1	1974	1

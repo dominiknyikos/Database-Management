@@ -1,0 +1,9 @@
+id	nev
+1	halak
+2	körszájúak
+3	madarak
+4	kétéltűek
+5	puhatestűek
+6	hüllők
+7	emlősök
+8	ízeltlábúak
